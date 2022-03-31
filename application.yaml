@@ -9,11 +9,11 @@ spec:
   source:
     repoURL: https://github.com/filib1234/argoCDdemo.git
     targetRevision: HEAD
-    path: dev
+    path: prod
 
   destination:
     server: https://kubernetes.default.svc
-    namespace: myapp
+    namespace: webapp
 
   syncPolicy:
     syncOptions:
