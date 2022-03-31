@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="912a5aa2-e3f7-4697-b647-20dab0c28bc8" name="Default Changelist" comment="init">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="275t6l4Rt0e5wvDgL8irNaCAlEq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GO_FMT" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/prod" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/argocd" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/prod" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="912a5aa2-e3f7-4697-b647-20dab0c28bc8" name="Default Changelist" comment="" />
+      <created>1648621601932</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648621601932</updated>
+      <workItem from="1648621610467" duration="10511000" />
+      <workItem from="1648706364846" duration="6642000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1648622123738</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1648622123738</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init">
+      <created>1648624549927</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1648624549927</updated>
+    </task>
+    <task id="LOCAL-00003" summary="init">
+      <created>1648624677091</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1648624677091</updated>
+    </task>
+    <task id="LOCAL-00004" summary="init">
+      <created>1648624878393</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1648624878393</updated>
+    </task>
+    <task id="LOCAL-00005" summary="init">
+      <created>1648624887282</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1648624887282</updated>
+    </task>
+    <task id="LOCAL-00006" summary="init">
+      <created>1648625472556</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1648625472556</updated>
+    </task>
+    <task id="LOCAL-00007" summary="init">
+      <created>1648632362283</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1648632362283</updated>
+    </task>
+    <task id="LOCAL-00008" summary="init">
+      <created>1648637602326</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1648637602326</updated>
+    </task>
+    <task id="LOCAL-00009" summary="init">
+      <created>1648709294083</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1648709294083</updated>
+    </task>
+    <task id="LOCAL-00010" summary="init">
+      <created>1648712348831</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1648712348832</updated>
+    </task>
+    <task id="LOCAL-00011" summary="init">
+      <created>1648712999589</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1648712999589</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Revert &quot;init&quot;&#10;&#10;This reverts commit 6e626d23">
+      <created>1648713173326</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1648713173326</updated>
+    </task>
+    <task id="LOCAL-00013" summary="init">
+      <created>1648715151867</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1648715151867</updated>
+    </task>
+    <task id="LOCAL-00014" summary="init">
+      <created>1648715204393</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1648715204393</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Revert &quot;init&quot;&#10;&#10;This reverts commit 6e626d23" />
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2499" y="716" width="754" height="692" key="#Inspections" timestamp="1648626479971">
+      <screen x="0" y="0" width="3840" height="2127" />
+    </state>
+    <state x="2499" y="716" width="754" height="692" key="#Inspections/0.0.3840.2127@0.0.3840.2127" timestamp="1648626479971" />
+    <state x="2105" y="436" width="1542" height="1251" key="#Project_Structure" timestamp="1648621613262">
+      <screen x="0" y="0" width="3840" height="2127" />
+    </state>
+    <state x="2105" y="436" width="1542" height="1251" key="#Project_Structure/0.0.3840.2127@0.0.3840.2127" timestamp="1648621613262" />
+    <state x="2233" y="473" width="1286" height="1177" key="CommitChangelistDialog2" timestamp="1648715204342">
+      <screen x="0" y="0" width="3840" height="2127" />
+    </state>
+    <state x="2233" y="473" width="1286" height="1177" key="CommitChangelistDialog2/0.0.3840.2127@0.0.3840.2127" timestamp="1648715204342" />
+    <state x="2105" y="436" width="1542" height="1251" key="SettingsEditor" timestamp="1648624043353">
+      <screen x="0" y="0" width="3840" height="2127" />
+    </state>
+    <state x="2105" y="436" width="1542" height="1251" key="SettingsEditor/0.0.3840.2127@0.0.3840.2127" timestamp="1648624043353" />
+    <state x="2273" y="674" width="1206" height="775" key="Vcs.Push.Dialog.v2" timestamp="1648715205717">
+      <screen x="0" y="0" width="3840" height="2127" />
+    </state>
+    <state x="2273" y="674" width="1206" height="775" key="Vcs.Push.Dialog.v2/0.0.3840.2127@0.0.3840.2127" timestamp="1648715205717" />
+    <state x="2444" y="686" width="872" height="754" key="find.popup" timestamp="1648712609695">
+      <screen x="0" y="0" width="3840" height="2127" />
+    </state>
+    <state x="2444" y="686" width="872" height="754" key="find.popup/0.0.3840.2127@0.0.3840.2127" timestamp="1648712609695" />
+    <state x="2373" y="483" width="1009" height="1470" key="search.everywhere.popup" timestamp="1648711296684">
+      <screen x="0" y="0" width="3840" height="2127" />
+    </state>
+    <state x="2373" y="483" width="1009" height="1470" key="search.everywhere.popup/0.0.3840.2127@0.0.3840.2127" timestamp="1648711296684" />
+  </component>
+</project>
